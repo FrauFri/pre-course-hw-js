@@ -8,5 +8,5 @@ let passportCopy = {
   surname: "Petrov",
 };
 
-console.log(passport);
-console.log(passportCopy);
+console.log(passport.name);
+console.log(passportCopy.name);
