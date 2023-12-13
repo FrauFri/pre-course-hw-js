@@ -18,5 +18,5 @@ let passportWithAddressCopy = {
 };
 
 
-console.log(passportWithAddress.city);
-console.log(passportWithAddressCopy.city);
+console.log(passportWithAddress.address.city);
+console.log(passportWithAddressCopy.address.city);
